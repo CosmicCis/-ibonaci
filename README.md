@@ -1,2 +1,2 @@
-# -ibonaci
+# φibonaci
 φibonaci
